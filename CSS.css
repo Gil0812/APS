@@ -1,0 +1,46 @@
+#Sel1 {
+    background-color: rgb(179, 212, 128);
+    font-weight: bold;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 10px; 
+    border: 5%; 
+    border-style: ridge; 
+    border-color: rgb(130, 32, 32);
+}
+
+#Sel2 {
+    background-color: rgb(78, 181, 69) ;
+    border: 9px;
+    border-style: ridge;
+    border-color: aqua;
+    border-radius: 15px; 
+    padding: 5px;
+    text-align: center;
+    font-size: 23px;
+}
+
+#menu {
+    background-color: rgb(78, 181, 69) ;
+    border: 15px;
+    border-style: ridge;
+    border-color: aqua;
+    border-radius: 15px; 
+    padding: 30px;
+    text-align: center;
+    font-size: 30px; 
+    margin: auto;
+    
+   }
+
+body {
+    background-image: url('https://img.freepik.com/fotos-gratis/vista-de-verde-luxuriante-floresta-tropical-em-costa-rica_23-2148248823.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714176000&semt=ais');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;}
+
+.título {text-align: center; font-size: 30px;  }
+
+.título2 {text-align: left; font-size: 25px; }
+
+.c{float: right; margin: 0 0 20px 20px;}
